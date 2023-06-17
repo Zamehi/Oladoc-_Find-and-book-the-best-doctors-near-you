@@ -14,6 +14,8 @@ Following are the main Module of Oladoc
 6. Registration Module
 This system has three users. Admin, Doctor, and Patient. So all feature has been divided between these
 three users.
+![image](https://github.com/Zamehi/Oladoc-_Find-and-book-the-best-doctors-near-you/assets/129313428/d89616cc-133c-4504-b4fd-ebd5e813537c)
+
 ![WhatsApp Image 2023-06-17 at 8 24 04 PM](https://github.com/Zamehi/Oladoc-_Find-and-book-the-best-doctors-near-you/assets/129313428/33844fd3-1f14-4bdf-8a69-dd6118e74ba4)
 
 
